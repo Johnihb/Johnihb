@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Johnihb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Johnihb! 👋
 
-<!---
-Johnihb/Johnihb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Student** | 💻 **JavaScript Enthusiast**
+
+---
+
+Welcome to my GitHub profile! I’m passionate about learning, building, and exploring the world of programming, with a special focus on JavaScript.
+
+## 🚀 About Me
+
+- 🌱 Currently learning and growing as a student developer
+- 💡 Always curious about new technologies and creative coding
+- 🛠️ Main stack: **JavaScript** (and expanding!)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amritXtha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amritXtha/)
+
+## 🌟 GitHub Stats
+
+![Johnihb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnihb&show_icons=true&theme=tokyonight)
+
+---
+
+_Thanks for stopping by! Feel free to check out my repositories, connect, or reach out._

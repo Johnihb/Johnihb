@@ -26,7 +26,7 @@
 const amrit = {
   name: "Amrit",
   alias: "Johnihb",
-  location: "Kathmandu, Nepal 🇳🇵",
+  location: "Lalitpur, Nepal 🇳🇵",
   education: "BIT @ Purbanchal University",
   role: "Full Stack Developer (MERN)",
   currentProject: "AI-Powered Job Portal 🤖",
@@ -37,9 +37,9 @@ const amrit = {
 
 - 🎓 **BIT Student** at Purbanchal University, Kathmandu
 - 🔭 Currently building an **AI-powered Job Portal** with MERN stack
-- 🌱 Deepening skills in **React**, **Zustand**, and **AI/ML integration**
+- 🌱 Deepening skills in **React**, **Zustand**, and **AI integration**
 - 💡 Passionate about **Entrepreneurship** + **Software Development**
-- ⚡ Fun fact: I automate boring things so I can do more boring things
+- ⚡ Fun fact: I build things, break things, then Google why
 
 <br clear="right"/>
 
@@ -73,6 +73,7 @@ const amrit = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
